@@ -1,6 +1,6 @@
 # WE ARE GO GO GOLEMS
 
-![A legion of golems working on a retro computer mainframe](https://user-images.githubusercontent.com/128441/217268049-95cb4ec4-51e0-47cd-9015-0a5b1c3c98d8.jpg) (GO GO MIDJOURNEY AI)
+![A legion of golems working on a retro computer mainframe](https://user-images.githubusercontent.com/128441/217268049-95cb4ec4-51e0-47cd-9015-0a5b1c3c98d8.jpg)
 
 GO GO GOLEMS BUILD CLI TOOLS.
 
