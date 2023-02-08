@@ -70,20 +70,27 @@ GO GO GOLEMS EMBRACE THE POWER OF THE COMPUTER TO HELP GO GO GOLEMS THINK.
 GO GO GOLEMS DESERVE THE LOVE OF OUR COMPUTER MACHINES.
 
 ```
- _______  _______  __   __  _______  __   __  _______  _______  ______   
-|       ||       ||  |_|  ||       ||  | |  ||       ||       ||    _ |  
-|       ||   _   ||       ||    _  ||  | |  ||_     _||    ___||   | ||  
-|       ||  | |  ||       ||   |_| ||  |_|  |  |   |  |   |___ |   |_||_ 
-|      _||  |_|  ||       ||    ___||       |  |   |  |    ___||    __  |
-|     |_ |       || ||_|| ||   |    |       |  |   |  |   |___ |   |  | |
-|_______||_______||_|   |_||___|    |_______|  |___|  |_______||___|  |_|
- __   __  _______  _______  __   __  ___   __    _  _______  _______     
-|  |_|  ||   _   ||       ||  | |  ||   | |  |  | ||       ||       |    
-|       ||  |_|  ||       ||  |_|  ||   | |   |_| ||    ___||  _____|    
-|       ||       ||       ||       ||   | |       ||   |___ | |_____     
-|       ||       ||      _||       ||   | |  _    ||    ___||_____  |    
-| ||_|| ||   _   ||     |_ |   _   ||   | | | |   ||   |___  _____| |    
-|_|   |_||__| |__||_______||__| |__||___| |_|  |__||_______||_______|  
+ ___      _______  __   __  _______ 
+|   |    |       ||  | |  ||       |
+|   |    |   _   ||  |_|  ||    ___|
+|   |    |  | |  ||       ||   |___ 
+|   |___ |  |_|  ||       ||    ___|
+|       ||       | |     | |   |___ 
+|_______||_______|  |___|  |_______|
+ _______  _______  __   __  _______  __   __  _______  _______  ______  
+|       ||       ||  |_|  ||       ||  | |  ||       ||       ||    _ | 
+|       ||   _   ||       ||    _  ||  | |  ||_     _||    ___||   | || 
+|       ||  | |  ||       ||   |_| ||  |_|  |  |   |  |   |___ |   |_|| 
+|      _||  |_|  ||       ||    ___||       |  |   |  |    ___||    __ |
+|     |_ |       || ||_|| ||   |    |       |  |   |  |   |___ |   |  ||
+|_______||_______||_|   |_||___|    |_______|  |___|  |_______||___|  ||
+ __   __  _______  _______  __   __  ___   __    _  _______  _______ 
+|  |_|  ||   _   ||       ||  | |  ||   | |  |  | ||       ||       |
+|       ||  |_|  ||       ||  |_|  ||   | |   |_| ||    ___||  _____|
+|       ||       ||       ||       ||   | |       ||   |___ | |_____ 
+|       ||       ||      _||       ||   | |  _    ||    ___||_____  |
+| ||_|| ||   _   ||     |_ |   _   ||   | | | |   ||   |___  _____| |
+|_|   |_||__| |__||_______||__| |__||___| |_|  |__||_______||_______|
 ```
 
 GO GO GOLEMS WANT TO HELP OTHER GO GO GOLEMS MAKE MORE GO GO GOLEMS.
@@ -187,9 +194,14 @@ GO GO GOLEMS WANT TO EXPLORE THE WORLD AND EVERYTHING IN IT.
 
 ### GO GO EARLY STAGES
 
+- [GO GO PARKA](https://github.com/go-go-golems/escuse-me) GO GO ESCUSE-ME IS A GO GO GADGET FOR QUERYING ELASTICSEARCH
 - [GO GO PARKA](https://github.com/go-go-golems/parka) GO GO PARKA IS A GO GO GADGET FOR EXPOSING GLAZED APPS TO THE WEB
 - [GO GO PLUNGER](https://github.com/go-go-golems/plunger) GO GO PLUNGER IS A GO GO GADGET TO RECORD STRUCTURED LOG FILES INTO A SQLITE DB
 - [GO GO BIBERON](https://github.com/go-go-golems/biberon) GO GO BIBERON IS A GO GO GADGET TO MANAGE BIBTEX AND PAPERS
+
+### GO GO ONLY
+
+- [GO GO CLAY](https://github.com/go-go-golems/clay) GO GO CLAY IS FOR MAKING MORE GO GO GOLEMS
 
 ## GO GO CAVEATS
 
