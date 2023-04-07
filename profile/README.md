@@ -21,6 +21,39 @@
 
 ![A legion of golems working on a retro computer mainframe](https://user-images.githubusercontent.com/128441/217268049-95cb4ec4-51e0-47cd-9015-0a5b1c3c98d8.jpg)
 
+
+### GO GO USABLE
+
+- [GO GO GLAZED](https://github.com/go-go-golems/glazed) GO GO GLAZED IS A GO GO GADGET FOR DATA RICH CLI APPLICATIONS
+- [GO GO SQLETON](https://github.com/go-go-golems/sqleton) GO GO SQLETON IS A GO GO GADGET FOR SQL DATABASES
+- [GO GO GEPPETTO](https://github.com/go-go-golems/geppetto) GO GO GEPPETTO IS A GO GO GADGET FOR LARGE LANGUAGE MODEL APPLICATIONS
+- [GO GO ESCUSE ME](https://github.com/go-go-golems/escuse-me) GO GO ESCUSE ME IS A GO GO GADGET FOR QUERYING ELASTICSEARCH
+- [GO GO HARKONNEN](https://github.com/go-go-golems/harkonnen) GO GO HARKONNEN IS A GO GO GADGET TO PARSE HAR FILES
+
+### GO GO AT YOUR OWN RISK
+
+- [GO GO BUCHERON](https://github.com/go-go-golems/bucheron) GO GO BUCHERON IS A GO GO GADGET FOR UPLOADING LOGS TO S3
+- [GO GO PLUNGER](https://github.com/go-go-golems/plunger) GO GO PLUNGER IS A GO GO GADGET TO RECORD STRUCTURED LOG FILES INTO A SQLITE DB
+- [GO GO CLIOPATRA](https://github.com/go-go-golems/cliopatra) GO GO CLIOPATRA IS A GO GO GADGET TO RUN AND TEST CLI APPS
+- [GO GO ECRIVAIN](https://github.com/go-go-golems/ecrivain) GO GO ECRIVAIN IS A GO GO GADGET TO DO LITERATE PROGRAMMING
+
+### GO GO EARLY STAGES
+
+- [GO GO PARKA](https://github.com/go-go-golems/parka) GO GO PARKA IS A GO GO GADGET FOR EXPOSING GLAZED APPS TO THE WEB
+- [GO GO BIBERON](https://github.com/go-go-golems/biberon) GO GO BIBERON IS A GO GO GADGET TO MANAGE BIBTEX AND PAPERS
+- [GO GO VOYAGE](https://github.com/go-go-golems/voyage) GO GO VOYAGE IS AN APP TO HELP WITH MIDJOURNEY PROMPTING
+- [GO GO RAZA](https://github.com/go-go-golems/raza) GO GO RAZA IS A GO GO GADGET TO MANAGE SHELL HISTORY
+
+### GO GO ONLY
+
+- [GO GO CLAY](https://github.com/go-go-golems/clay) GO GO CLAY IS FOR MAKING MORE GO GO GOLEMS
+
+## GO GO CAVEATS
+
+GO GO GOLEMS CODE IS GO GO GOLEM PLAYGROUND.
+
+GO GO GOLEMS CODE CAN CHANGE ANYTIME.
+
 ```
  _______  __   __  ___   ___      ______     _______  ___      ___  
 |  _    ||  | |  ||   | |   |    |      |   |       ||   |    |   | 
@@ -182,29 +215,3 @@ GO GO GOLEMS WANT TO EXPLORE THE WORLD AND EVERYTHING IN IT.
 
 ```
 
-### GO GO USABLE
-
-- [GO GO GLAZED](https://github.com/go-go-golems/glazed) GO GO GLAZED IS A GO GO GADGET FOR DATA RICH CLI APPLICATIONS
-- [GO GO SQLETON](https://github.com/go-go-golems/sqleton) GO GO SQLETON IS A GO GO GADGET FOR SQL DATABASES
-
-### GO GO AT YOUR OWN RISK
-
-- [GO GO BUCHERON](https://github.com/go-go-golems/bucheron) GO GO BUCHERON IS A GO GO GADGET FOR UPLOADING LOGS TO S3
-- [GO GO GEPPETTO](https://github.com/go-go-golems/geppetto) GO GO GEPPETTO IS A GO GO GADGET FOR LARGE LANGUAGE MODEL APPLICATIONS
-
-### GO GO EARLY STAGES
-
-- [GO GO ESCUSE ME](https://github.com/go-go-golems/escuse-me) GO GO ESCUSE ME IS A GO GO GADGET FOR QUERYING ELASTICSEARCH
-- [GO GO PARKA](https://github.com/go-go-golems/parka) GO GO PARKA IS A GO GO GADGET FOR EXPOSING GLAZED APPS TO THE WEB
-- [GO GO PLUNGER](https://github.com/go-go-golems/plunger) GO GO PLUNGER IS A GO GO GADGET TO RECORD STRUCTURED LOG FILES INTO A SQLITE DB
-- [GO GO BIBERON](https://github.com/go-go-golems/biberon) GO GO BIBERON IS A GO GO GADGET TO MANAGE BIBTEX AND PAPERS
-
-### GO GO ONLY
-
-- [GO GO CLAY](https://github.com/go-go-golems/clay) GO GO CLAY IS FOR MAKING MORE GO GO GOLEMS
-
-## GO GO CAVEATS
-
-GO GO GOLEMS CODE IS GO GO GOLEM PLAYGROUND.
-
-GO GO GOLEMS CODE CAN CHANGE ANYTIME.
