@@ -29,6 +29,7 @@
 - [GO GO GEPPETTO](https://github.com/go-go-golems/geppetto) GO GO GEPPETTO IS A GO GO GADGET FOR LARGE LANGUAGE MODEL APPLICATIONS
 - [GO GO ESCUSE ME](https://github.com/go-go-golems/escuse-me) GO GO ESCUSE ME IS A GO GO GADGET FOR QUERYING ELASTICSEARCH
 - [GO GO HARKONNEN](https://github.com/go-go-golems/harkonnen) GO GO HARKONNEN IS A GO GO GADGET TO PARSE HAR FILES
+- [GO GO OAK](https://github.com/go-go-golems/oak) GO GO OAK IS A GO GO GADGET TO PARSE SOURCECODE
 
 ### GO GO AT YOUR OWN RISK
 
